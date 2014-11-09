@@ -1,10 +1,10 @@
-. Sophie Gershon
-. Fall Semester
+<h1> Sophie Gershon </h1>
+<h2> Fall Semester </h2>
 Period 6
 
-. Main Projects
+<h3> Main Projects </h3>
 
-. RegExp and Data Scraping
+<h4> RegExp and Data Scraping </h4>
 
 Sophie Gershon, Sunnam Quispe, Genji Noguchi, Andreas Wang
 
