@@ -14,7 +14,7 @@ Search for a person/date, then use google module to get URLs, use urllib2 and be
 
 https://github.com/genjinoguchi/softdev_homework_1
 
-. Blogging Engine (SQL) 
+<h4> Blogging Engine (SQL) </h4>
 
 Sophie Gershon, Natan Zamansky, Justin Kim, Michael Huang
 
@@ -24,14 +24,18 @@ Uses SQL to create databases to support a blogging system where new blogs can be
 
 https://github.com/sophgersh/blog
 
-. Mini Projects
+<h3> Mini Projects </h3>
 
-* login
+<ul>
+<li> login
 		* Sophie Gershon, Adam Dehovitz
 		* 6/login/adam_sophie
-* regexp
+		</li>
+<li> regexp
 		* Sophie Gershon, Daniel Zabari
-		* 6/regexp/sophie_daniel 
-* intro-proj 1
+		* 6/regexp/sophie_daniel
+		</li>
+<li> intro-proj 1
 		* Sophie Gershon, Maria Vasilkin 
 		* 6/intro-proj1/Gershon-Vasilkin
+		</li>
