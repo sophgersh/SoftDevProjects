@@ -19,13 +19,13 @@ Uses SQL to create databases to support a blogging system where new blogs can be
 
 ##Mini Projects 
 
-	* login
-		* Sophie Gershon, Adam Dehovitz
-		* 6/login/adam_sophie
-	* regexp
-		* Sophie Gershon, Daniel Zabari
-		* 6/regexp/sophie_daniel
-	* intro-proj 1
-		* Sophie Gershon, Maria Vasilkin 
-		* 6/intro-proj1/Gershon-Vasilkin
+* login
+	* Sophie Gershon, Adam Dehovitz
+	* 6/login/adam_sophie
+* regexp
+	* Sophie Gershon, Daniel Zabari
+	* 6/regexp/sophie_daniel
+* intro-proj 1
+	* Sophie Gershon, Maria Vasilkin 
+	* 6/intro-proj1/Gershon-Vasilkin
 
