@@ -21,8 +21,8 @@ Uses SQL to create databases to support a blogging system where new blogs can be
 ####Sophie Gershon and Deanna Taylor
 ####Description
 Using Rotten Tomatoes and New York Times APIs, users look up a movie
-###and get a list of articles published on the same day as that movie
-###was released.
+and get a list of articles published on the same day as that movie
+was released.
 ####https://github.com/deannataylor/API-project
 
 ##Mini Projects 
