@@ -36,4 +36,7 @@ was released.
 * intro-proj 1
 	* Sophie Gershon, Maria Vasilkin 
 	* 6/intro-proj1/Gershon-Vasilkin
+* To Do list
+	* Sophie Gershon
+	* 6/todo/sophie_gershon
 
