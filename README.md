@@ -3,6 +3,12 @@ Sophie Gershon
 # Fall Semester
 Period 6
 
+##Final Project - (Ava)Rulo
+####Benedict Bolton, Adam DeHovitz, Sophie Gershon, Deanna Taylor
+####Description
+In this project we will harness the power of deals, special, and bulk offers by uniting people in their quest for saving.
+####https://github.com/AdamDeHovitz/Rulo
+
 ##Main Projects 
 
 ###RegExp and Data Scraping 
@@ -25,16 +31,11 @@ and get a list of articles published on the same day as that movie
 was released.
 ####https://github.com/deannataylor/API-project
 
-###Final Project
-####Benedict Bolton, Adam Dehovitz, Sophie Gershon, Deanna Taylor
-####Description
-In this project we will harness the power of deals, special, and bulk offers by uniting people in their quest for saving.
-####https://github.com/AdamDeHovitz/Rulo
 
 ##Mini Projects 
 
 * login
-	* Sophie Gershon, Adam Dehovitz
+	* Sophie Gershon, Adam DeHovitz
 	* 6/login/adam_sophie
 * regexp
 	* Sophie Gershon, Daniel Zabari
